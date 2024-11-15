@@ -3,14 +3,14 @@
 This is a simple Simon Game project, developed as part of an online course on Udemy. The game challenges players to remember and repeat an increasing sequence of colors.
 
 ## Project Structure
-
+```plaintext
 The project directory contains the following files:
 Simon Game Challenge/ 
   ├── sounds/ # Folder containing audio files for game sounds 
   ├── game.js # JavaScript logic for the game 
   ├── index.html # HTML structure for the game
   └── styles.css # CSS styling for the game
-
+```
 ## How to Play
 
 1. The game displays a sequence of colors (buttons) that light up one at a time. The sequence starts with one color and grows with each round.
@@ -29,10 +29,7 @@ Simon Game Challenge/
 
 1. Clone the repository or download the files.
 2. Open `index.html` in a web browser to play the game.
-
-## Screenshots
-
-*Include screenshots of the game in action (if possible)*
+3. 
 
 ## Acknowledgments
 
